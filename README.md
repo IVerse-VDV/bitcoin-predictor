@@ -5,6 +5,10 @@
 > A sophisticated machine learning application that uses 7 day price patterns to predict tomorrows Bitcoin price direction with high accuracy. Built with PyTorch and featuring a sleek Streamlit interface.
 
 ---
+
+![Comparison](assets/comparison-predict.jpg)
+
+
 ## What Makes This Special?
 
 This project is intentionally designed as a **foundation for learning and collaboration.** While we've built a solid neural network that analyzes 7 days of price data with decent accuracy, we know there's so much more potential waiting to be unlocked. Think of this as a well-structured starting point rather than a finished product - the architecture is clean, the code is readable, and the framework is ready for your improvements.

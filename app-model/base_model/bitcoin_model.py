@@ -202,3 +202,4 @@ if __name__ == "__main__":
     if pred is not None:
         direction = "UP" if pred == 1 else "DOWN"
         print(f"Prediction: {direction} ({prob:.2%})")
+
